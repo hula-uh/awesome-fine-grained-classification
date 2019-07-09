@@ -1,9 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Fined-Grained Classification
+# Awesome Fine-Grained Classification
 
 ## Papers
-- Learning to Navigate for Fine-grained Classification [https://arxiv.org/abs/1809.00287]
+- [Learning to Navigate for Fine-grained Classification] (https://arxiv.org/abs/1809.00287)
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
