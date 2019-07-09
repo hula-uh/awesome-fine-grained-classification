@@ -3,7 +3,8 @@
 # Awesome Fine-Grained Classification
 
 ## Papers
-- [Learning to Navigate for Fine-grained Classification](https://arxiv.org/abs/1809.00287)
+- [Learning to Navigate for Fine-grained Classification [Yang et al.]](https://arxiv.org/abs/1809.00287)
+- [Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition [Zheng et al.]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf)
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
