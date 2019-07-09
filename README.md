@@ -3,7 +3,7 @@
 # Awesome Fine-Grained Classification
 
 ## Papers
-- [Learning to Navigate for Fine-grained Classification] (https://arxiv.org/abs/1809.00287)
+- [Learning to Navigate for Fine-grained Classification](https://arxiv.org/abs/1809.00287)
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
